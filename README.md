@@ -17,7 +17,7 @@ Hidden
 -->
 
 
-# 👋 Hi there! I'm DeTow  
+# 👋 3tow's here  
 **English / Spanish**  
 
 🚀 Beginner developer learning to code, focusing to build a solid foundation. Currently working on a project to improve my skills. Using AI since i'm a total newbie. 
